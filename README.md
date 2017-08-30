@@ -8,6 +8,7 @@
 [![Follow on medium](https://img.shields.io/badge/medium-follow%20us%20%E2%86%92-02b875.svg?style=flat-square)](https://medium.com/devtranslate)
 [![GitHub issues](https://img.shields.io/github/issues/devtranslate/medium.svg?style=flat-square)][link-issues]
 [![GitHub stars](https://img.shields.io/github/stars/devtranslate/medium.svg?style=flat-square)](https://github.com/devtranslate/medium/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/devtranslate/medium.svg?style=flat-square)](https://github.com/devtranslate/medium/network)
 
 # Contents
 1. [Portuguese](https://github.com/devtranslate/medium#portuguese)
