@@ -15,7 +15,9 @@
 2. [English](https://github.com/devtranslate/medium/blob/master/PERMISSION.md#english)
 
 ## Portuguese
-Em Breve.
+**IMPORTANTE:** Não é obrigatória a utilização da mensagem abaixo para realizar o pedido de permissão, mas se possível ao escrever o seu próprio pedido apresente um pouco sobre o projeto explicando qual o intuito e objetivo do mesmo.
+
+> Olá, acabo de ler seu artigo e achei muito interessante e gostaria de pedir sua permissão para realizar a tradução por meio de um projeto open source chamado @devtranslate. O projeto em si tem o objetivo de estimular a tradução de documentos, artigos e afins da área de tecnologia. Estou no aguardo de sua resposta, e obrigada pela conteúdo.
 
 ## English
-Soon.
+~
