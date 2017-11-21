@@ -11,11 +11,11 @@
 [![GitHub forks](https://img.shields.io/github/forks/devtranslate/medium.svg?style=flat-square)](https://github.com/devtranslate/medium/network)
 
 # Contents
-1. [Verify Permission](https://github.com/devtranslate/medium/blob/master/ARTICLES.md#verify-permission)
-2. [Has Permission to Translate](https://github.com/devtranslate/medium/blob/master/ARTICLES.md#has-permission-to-translate)
+1. [Finished Translation](https://github.com/devtranslate/medium/blob/master/ARTICLES.md#verify-permission)
+2. [Translation in Progress](https://github.com/devtranslate/medium/blob/master/ARTICLES.md#verify-permission)
 
-## Verify Permission
-Soon.
+## Finished Translation
+* [Laravel: Testando Parcialmente Respostas JSON **(Lucas Pires)**](https://medium.com/devtranslate/laravel-testando-parcialmente-respostas-json-320c6dc267d7)
 
-## Has Permission to Translate
-Soon.
+## Translation in Progress
+* A comunidade global de PHP continua se intoxicando, e precisamos reverter isso antes que afete outros de nós **(William)**
