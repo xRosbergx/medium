@@ -22,6 +22,14 @@ Caso deseje realizar a tradução de um artigo é necessário primeiramente que 
 ### Acesso ao Medium
 Para ter acesso ao Medium e começar a postar seus artigos traduzidos basta informar o seu usuário na issue **[Medium Writers][link-issues]** que você será logo mais adicionado como um escritor.
 
+### Como postar
+Para incluir uma publicação no nosso medium basta na hora de editar ou publicar seu artigo você clicar no símbolo de três pontinhos ao lado do botão de publicação, em seguida clique em **Add to Publication**, selecione opção Devtranslate e clicar no botão **Add Draft** como você pode ver na imagem:
+
+<p align="center">
+  <img src="https://image.ibb.co/cpcBux/1.png" alt="Menu com Bolinhas"/>
+  <img src="https://image.ibb.co/fdL37H/2.png" alt="Add to Publication"/>
+</p>
+
 ### Regras ao Postar
 Para realizar a postagem de seu conteúdo é necessário que se utilize as tags informando a linguagem que esta escrito o mesmo, por exemplo, se o conteúdo é em inglês crie uma tag **#english**, ou **#portuguese** caso seja em português. Utilizamos esta forma de organização apenas para organizar o conteúdo traduzido, assim sendo mais fácil a localização do que for preciso de forma rápida e clara.
 
@@ -32,6 +40,14 @@ If you wanna translate an article, you will need permission from the author and 
 
 ### Access to Medium
 Obtain access to our Medium and start posting your translated articles by informing your username in the issue **[Medium Writers][link-issues]**, soon after that, you will be added as a writer.
+
+### How to post
+To include a publication in our medium, it is enough to edit or publish your article by clicking on the three-dot symbol next to the publishing button, then click **Add to Publication**, select devtranslate option and click the **Add Draft** as you can see in the image:
+
+<p align="center">
+  <img src="https://image.ibb.co/cpcBux/1.png" alt="Menu com Bolinhas"/>
+  <img src="https://image.ibb.co/fdL37H/2.png" alt="Add to Publication"/>
+</p>
 
 ### Rules to Post
 When posting your translated content it's necessary that you use tags informing the language that is written, for example, if the content is in English create a tag called **#english**, or if it's in Portuguese create a tag called **#portuguese**. This is how we organize the translated content, this way it's faster and easier to locate what is needed.
